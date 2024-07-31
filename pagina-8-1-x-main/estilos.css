@@ -1,0 +1,33 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 50px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(14, 13, 13);
+    
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo2.jpg");
+    background-repeat: no-repeat;
+
+}
+.titulo{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.img1{
+    height: 220px;
+    width: 400px;
+    background-image: url(Circuito_electrico.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
