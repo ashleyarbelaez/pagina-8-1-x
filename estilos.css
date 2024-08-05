@@ -31,3 +31,26 @@ body{
     background-repeat: no-repeat;
     float: left;
 }
+
+.img2{
+    height: 400px;
+    width: 400px;
+    background-image: url(mapa\ mental.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img3{
+    height: 400px;
+    width: 400px;
+    background-image: url(anorexia.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
+.img4{
+    height: 400px;
+    width: 400px;
+    background-image: url(bulimia.jpg);
+    background-repeat: no-repeat;
+    float: left;
+}
