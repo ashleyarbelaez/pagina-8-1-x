@@ -54,3 +54,10 @@ body{
     background-repeat: no-repeat;
     float: left;
 }
+.img{
+    height: 400px;
+    width: 400px;
+    background-image: url(SUMA.JPG);
+    background-repeat: no-repeat;
+    float: left;
+}
