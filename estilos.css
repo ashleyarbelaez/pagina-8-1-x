@@ -61,3 +61,34 @@ body{
     background-repeat: no-repeat;
     float: left;
 }
+
+.img5{
+    height: 400px;
+    width: 400px;
+    background-image: url(logo\ inicio.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img6{
+    height: 400px;
+    width: 400px;
+    background-image: url(logo\ ingles.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.img7{
+    height: 400px;
+    width: 400px;
+    background-image: url(logo\ de\ sociales.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
+.img8{
+    height: 400px;
+    width: 400px;
+    background-image: url(logo\ tecno.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+}
